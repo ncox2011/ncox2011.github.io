@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{418:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Natasha Cox Dev",description:"A Gatsby.js Starter based on Strata by HTML5 UP"}}},pathContext:{}}}});
+//# sourceMappingURL=path---index-909bb674e6a685473661.js.map
